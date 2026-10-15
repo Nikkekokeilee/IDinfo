@@ -1,0 +1,2 @@
+# IDinfo
+pohjoismaiden sähkömarkkinatietoa.
